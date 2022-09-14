@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id" : "unique-1",
+            "name" : "Adam Smith",
+            "department" : "HR",
+            "salary" : "3000$"
+        },
+        {
+            "id" : "unique-2",
+            "name" : "Ada Lawrance",
+            "department" : "IT",
+            "salary" : "2500$"
+        },
+        {
+            "id" : "unique-3",
+            "name" : "Test User",
+            "department" : "IT",
+            "salary" : "3500$"
+        }
+    ]
+}
